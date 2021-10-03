@@ -14,5 +14,5 @@
 
 # PRs made directly to contributors list without adding any useful Resource / Project / Solving Issues will be marked as invalid/spam .
 
-### Please just don't do it just for the heck of a T-shirt do it to learn and get experience on how to make a PR !!!!!!!
+### Please just don't do it just for the heck of a T-shirt do it to learn and get experience on how to make a PR !!!!!!! 
  
