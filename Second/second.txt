@@ -1,2 +1,1 @@
-#data
-stdio
+#include<bits/stdc++.h>
