@@ -1,1 +1,6 @@
+
+#inlcude<ios>
+stdio
+cout<<"diksha"
 #include<bits/stdc++.h>
+
