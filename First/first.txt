@@ -1,2 +1,1 @@
-#include
-stdio
+#include<bits/stdc++.h>
