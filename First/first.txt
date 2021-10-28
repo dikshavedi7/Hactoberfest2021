@@ -1,3 +1,2 @@
-#include
-stdio
-cout<<"diksha"
+#include<bits/stdc++.h>
+
