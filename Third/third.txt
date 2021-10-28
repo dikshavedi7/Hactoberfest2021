@@ -1,2 +1,1 @@
-#inci
-stdio
+#include<bits/stdc++.h>
